@@ -1,0 +1,13 @@
+{
+   
+    "rules": {
+      "new-cap": 0,
+      "max-len": 0
+    },
+    "parserOptions": {
+      "ecmaVersion": 7
+    },
+    "env": {
+      "browser": true
+    }
+  }
